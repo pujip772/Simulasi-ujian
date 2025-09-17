@@ -1,4 +1,4 @@
-<script>
+
         // Simulasi database untuk menyimpan data user
         const usersDB = {};
         let loggedInUser = null;
@@ -551,4 +551,3 @@
 
         // Memulai aplikasi dengan menampilkan halaman pendaftaran
         showPage('register');
-    </script>
